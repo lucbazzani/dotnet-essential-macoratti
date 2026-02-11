@@ -45,7 +45,7 @@ The repository is organized according to the course modules and topics covered.
 ## 🛠️ Technologies and Tools Used
 
 * **C#:** 14 (Targeting .NET 10.0)
-* **.NET SDK:** 10.0
+* **.NET SDK:** 10.0.102
 * **Visual Studio 2026**
 * **Git**
 
