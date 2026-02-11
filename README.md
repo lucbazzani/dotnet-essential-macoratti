@@ -23,7 +23,7 @@ P.S.: Not every single exercise from the course will be present; I focus on thos
 The repository is organized according to the course modules and topics covered.
 
 | Section | Status |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **Fundamentals** | **In Progress** |
 | **Control Structures** | To Do |
 | **Classes and Methods** | To Do |
