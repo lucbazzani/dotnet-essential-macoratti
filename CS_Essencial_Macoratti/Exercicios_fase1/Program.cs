@@ -1,6 +1,6 @@
-﻿//1 - Crie uma variável chamada idade e atribua a ela o valor 35 e exiba o seu valor.
-using System.Runtime.Intrinsics.X86;
+﻿using System.Runtime.Intrinsics.X86;
 
+//1 - Crie uma variável chamada idade e atribua a ela o valor 35 e exiba o seu valor.
 byte idade = 35;
 Console.WriteLine($"idade: {idade}");
 
