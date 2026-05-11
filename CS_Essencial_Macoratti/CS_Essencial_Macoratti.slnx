@@ -1,4 +1,6 @@
 <Solution>
-  <Project Path="Exercicios_fase1/Exercicios_fase1.csproj" />
-  <Project Path="Exercicios_fase2/Exercicios_fase2.csproj" Id="31e9ed1c-3d4e-4195-8708-921ec6549ee1" />
+  <Project Path="Exercicios_fase1/Exercicios_Secao2_Fundamentos_fase1.csproj" />
+  <Project Path="Exercicios_fase2/Exercicios_Secao2_Fundamentos_fase2.csproj" />
+  <Project Path="Exercicios_Fase4/Exercicios_Secao4_ClassesEMetodos.csproj" Id="869a80bf-87da-410f-8a46-eddd84ee1f78" />
+  <Project Path="Exercicios_Secao3_EstruturasDeControle/Exercicios_Secao3_EstruturasDeControle.csproj" />
 </Solution>
