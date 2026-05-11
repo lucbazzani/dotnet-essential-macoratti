@@ -24,10 +24,10 @@ The repository is organized according to the course modules and topics covered.
 
 | Section | Status |
 | :--- | :--- |
-| **Fundamentals** | **In Progress** |
-| **Control Structures** | To Do |
-| **Classes and Methods** | To Do |
-| **Array, ArrayList and List** | To Do |
+| **Fundamentals** | Done |
+| **Control Structures** | Done |
+| **Classes and Methods** | Done |
+| **Array, ArrayList and List** | **In Progress** |
 | **Object-oriented programming** | To Do |
 | **Generics and Generics Collections** | To Do |
 | **Error Handling** | To Do |
