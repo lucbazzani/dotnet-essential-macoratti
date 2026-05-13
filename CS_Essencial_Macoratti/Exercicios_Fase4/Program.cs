@@ -60,3 +60,27 @@
 
 // 20 - Qual a diferença entre campos e propriedades?
 // As propriedades expõem os campos, que por sua vez, ficam privados.
+
+// 21 - O que é uma struct?
+// Um tipo de dado armazenado na stack, mais leve que uma classe e sem suporte para herança e polimorfismo.
+
+// 22 - Qual a diferença entre uma struct e uma classe?
+// Struct é um tipo de valor, armazenado na stack, mais leve que uma classe e sem suporte para herança e polimorfismo.
+// Classe é um tipo de referência, armazenada na heap, e suporta herança e polimorfismo.
+
+// 23 - O que é uma Enum?
+// É um tipo de valor, alocado na stack, que representa um conjunto de constantes nomeadas (ou enumeradas).
+
+// 24 - Quais são e qual o escopo dos modificadores de acesso?
+// public: qualqer outro código no mesmo assembly ou em outro assembly que faz referência à ele.
+// private: somente pelo código na mesma classe ou struct.
+// internal: qualquer código apenas no mesmo assembly.
+// protected: qualquer código no assembly no qual ele é declarado, ou de uma classe derivada em outro assembly.
+// file: restringe o escopo de visibilidade de um tipo de nível superior ao arquivo no qual ele for liberado.
+
+// 25 - Qual a regra geral para usar os modificadores de acesso?
+// Manter o acesso de tipos e/ou membros o mais restrito possível, mantendo-os acessíveis apenas a quem precisa realmente precisa acessá-los. 
+
+// 26 - Defina partial class:
+// Partial Class é uma classe que pode ser dividida em múltiplos arquivos físicos com extensão '.css'.
+// O compilador gerará a classe num único arquivo lógico.
