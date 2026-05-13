@@ -44,3 +44,19 @@
 
 // 15 - O que são parâmetros opcionais? 
 // Define-se um valor default para o parâmetro tonando a passagem de argumento deste parâmetro opcional.
+
+// 16 - Qual o efeito da palavra-chave static?
+// O uso de static torna o membro da classe relativo à classe e não à um objeto da mesma.
+
+// 17 - O que é método estático e qual o seu comportamento?
+// Métodos estáticos são aqueles que não dependem de uma instância da classe para serem chamados.
+
+// 18 - O que é um campo estático e qual o seu comportamento?
+// São os campos que pertencem à classe e não à uma instância da mesma.
+// São valores compartilhados por todas as instâncias daquela classe.
+
+// 19 - O que são propriedades?
+// São os campos de uma classe encapsulados com acessadores.
+
+// 20 - Qual a diferença entre campos e propriedades?
+// As propriedades expõem os campos, que por sua vez, ficam privados.
